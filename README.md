@@ -1,0 +1,2 @@
+# MyFirstCI
+Just check purpose
